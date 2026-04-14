@@ -15,13 +15,12 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+              HealthBooker is a smart and user-friendly doctor appointment booking system
+  designed to simplify healthcare access. Our platform allows patients to easily
+  find doctors, check availability, and book appointments without any hassle.
+  We aim to reduce waiting time, improve communication, and provide a smooth
+  scheduling experience for both patients and healthcare providers.
+
             </p>
           </div>
         </div>
